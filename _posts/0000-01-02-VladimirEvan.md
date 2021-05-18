@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+Dinh Duc Thien
+I'm developer in OF1
